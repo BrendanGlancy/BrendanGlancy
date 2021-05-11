@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center"> Hey, Welcome to my GitHub 👋</h1>
+<h3 align="center">CS @ <a href=https://www.kent.edu/ target="blank">Kent State</a>
 <!--
 **BrendanGlancy/BrendanGlancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -11,5 +11,5 @@
 - 🌃 Check out my Github Skyline or your own! https://skyline.github.com/
 
 
-![Screen Shot 2021-05-11 at 2 25 37 PM](https://user-images.githubusercontent.com/61941978/117866649-5efcd100-b265-11eb-8125-c43c341d6eb3.png)
+<img src="https://user-images.githubusercontent.com/61941978/117866649-5efcd100-b265-11eb-8125-c43c341d6eb3.png" width="400" align="right">
 
