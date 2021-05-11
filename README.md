@@ -13,7 +13,7 @@
  <p align="left">
 
   
-- 🔭 I’m currently working on my personal website http://brendanglancyportfolio-tech.stackstaging.com/ <br>
+- 🔭 I’m currently working on my personal website: <a href="http://brendanglancyportfolio-tech.stackstaging.com/">here</a> <br>
 
 - 🌱 I’m currently learning Python, Java, JavaScript, C++ <br>
 
@@ -21,6 +21,6 @@
 
 - 📫 How to reach me: bglance68@gmail.com or brendan@cantonchamber.org <br>
 
-- 🌃 Check out my Github Skyline or your own! https://skyline.github.com/ <br>
+- 🌃 Check out my Github Skyline or your own! <a href="https://skyline.github.com/">here</a> <br>
 
 </p>
