@@ -13,7 +13,7 @@
  <p align="left">
 
   
-- 🔭 I’m currently working on my personal website: <a href="http://brendanglancyportfolio-tech.stackstaging.com/">here</a> <br>
+- 🔭 I’m currently working on my personal website: <a href="https://brendanglancy.github.io/webpage/">here</a> <br>
 
 - 🌱 I’m currently learning Python, Java, JavaScript, C++ <br>
 
