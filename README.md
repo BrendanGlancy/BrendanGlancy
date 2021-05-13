@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, Welcome to my GitHub 👋</h1>
-<h3 align="center">CS @ <a href=https://www.kent.edu/ target="blank">Kent State</a></h3>
+<h3 align="center">CS @ <a href="https://www.uakron.edu/" target="blank">UA</a></h3>
 <!--
 **BrendanGlancy/BrendanGlancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
