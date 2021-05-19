@@ -23,6 +23,6 @@
 
 - 🌃 Check out my Github Skyline or your own! <a href="https://skyline.github.com/">here</a> <br>
 
--🌳 DKL site <a href="https://kisslandscaping.com/" target="-blank">here</a>
+- 🌳 DKL site <a href="https://kisslandscaping.com/" target="-blank">here</a>
 
 </p>
