@@ -13,7 +13,7 @@
  <p align="left">
 
   
-- 🔭 I’m currently working on my personal website: <a href="https://brendanglancy.github.io/webpage/">here</a> <br>
+- 🔭 I’m currently working on my personal website: <a href="https://brendanglancy.github.io/webpage/" target="-blank">here</a> <br>
 
 - 🌱 I’m currently learning Python, Java, JavaScript, C++ <br>
 
@@ -22,5 +22,7 @@
 - 📫 How to reach me: bglance68@gmail.com or brendan@cantonchamber.org <br>
 
 - 🌃 Check out my Github Skyline or your own! <a href="https://skyline.github.com/">here</a> <br>
+
+-🌳 DKL site <a href="https://kisslandscaping.com/" target="-blank">here</a>
 
 </p>
