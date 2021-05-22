@@ -25,6 +25,6 @@
 
 - 🌳 DKL site <a href="https://kisslandscaping.com/" target="-blank">here</a>
 
-- <a href="https://brendanglancy.github.io/Resume/" target="_blank">Resume</a>
+- <a href="https://brendanglancy.github.io/Resume/" target="_blank">📲 Resume</a>
 
 </p>
