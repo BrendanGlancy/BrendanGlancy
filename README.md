@@ -21,8 +21,6 @@
 
 - 📫 How to reach me: bglance68@gmail.com or brendan@cantonchamber.org <br>
 
-- 🌃 Check out my Github Skyline or your own! <a href="https://skyline.github.com/">here</a> <br>
-
 - 🌳 DKL site <a href="https://kisslandscaping.com/" target="-blank">here</a>
 
 - <a href="https://brendanglancy.github.io/Resume/" target="_blank">📲 Resume</a>
