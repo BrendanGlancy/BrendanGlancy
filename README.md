@@ -13,15 +13,15 @@
  <p align="left">
 
   
-- 🔭 I’m currently working on my personal website: <a href="https://brendanglancy.github.io/webpage/" target="_blank">here</a> <br>
+- 🔭 Personal website: <a href="https://brendanglancy.github.io/webpage/" target="_blank">here</a> <br>
 
 - 🌱 I’m currently learning Python, Java, JavaScript, C++ <br>
 
-- 👯 I’m looking to collaborate on anything cool <br>
+- 🔗 <a href="https://www.linkedin.com/in/brendan-glancy/" target="-blank">LinkedIn</a> <br>
 
 - 📫 How to reach me: bglance68@gmail.com or brendan@cantonchamber.org <br>
 
-- 🌳 DKL site <a href="https://kisslandscaping.com/" target="-blank">here</a>
+- 💾 Hack The Box <a href="https://www.hackthebox.eu/profile/414640" target="-blank">here</a>
 
 - <a href="https://brendanglancy.github.io/Resume/" target="_blank">📲 Resume</a>
 
