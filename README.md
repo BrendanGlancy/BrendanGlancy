@@ -5,13 +5,6 @@
 
 
 
-<br>
-<p align="left" margin-top="10px">
-  
-  <img src="https://user-images.githubusercontent.com/61941978/121441839-845e2700-c958-11eb-9e22-7a6610263dda.png" width="400" align="right">
-</p>
- <p align="left">
-
   
 - 🔭 Personal website: <a href="https://brendanglancy.github.io/webpage/" target="_blank">here</a> <br>
 
