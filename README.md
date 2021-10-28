@@ -3,6 +3,7 @@
 <!--
 **BrendanGlancy/BrendanGlancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=brendanglancy&count_private=true)&emsp;&emsp;&emsp;
 
 
   
