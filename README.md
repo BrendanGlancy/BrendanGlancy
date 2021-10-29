@@ -3,11 +3,13 @@
 <!--
 **BrendanGlancy/BrendanGlancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=brendanglancy&count_private=true)&emsp;&emsp;&emsp;
 
-![Screen Shot 2021-10-29 at 12 41 51 AM](https://user-images.githubusercontent.com/61941978/139376888-c35494d4-a8d7-48ae-a87f-17b4ca7501a2.png)
-
-
+<br>
+<p align="left" margin-top="10px">
+  
+  <img src="https://user-images.githubusercontent.com/61941978/139376888-c35494d4-a8d7-48ae-a87f-17b4ca7501a2.png" width="400" align="right">
+</p>
+ <p align="left">
   
 - 🔭 Personal website: <a href="https://brendanglancy.github.io/webpage/" target="_blank">here</a> <br>
 
