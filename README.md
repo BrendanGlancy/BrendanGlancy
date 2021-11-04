@@ -11,7 +11,7 @@
 </p>
  <p align="left">
   
-- 🔭 Personal website: <a href="https://dev-port-5qbpwmsul-brendanglancy.vercel.app/" target="_blank">here</a> <br>
+- 🔭 Personal website: <a href="https://dev-port-lac.vercel.app/" target="_blank">here</a> <br>
 
 - 🌱 I’m currently learning Python, Java, JavaScript, C++ <br>
 
