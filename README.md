@@ -7,7 +7,7 @@
 <br>
 <p align="left" margin-top="10px">
   
-  <img src="https://user-images.githubusercontent.com/61941978/139376888-c35494d4-a8d7-48ae-a87f-17b4ca7501a2.png" width="auto" align="right">
+  <img src="http://www.hackthebox.eu/badge/image/414640" alt="Hack The Box" width="auto" align="right">
 </p>
  <p align="left">
   
