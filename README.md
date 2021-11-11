@@ -17,7 +17,7 @@
 
 - 🔗 <a href="https://www.linkedin.com/in/brendan-glancy/" target="-blank">LinkedIn</a> <br>
 
-- 📫 How to reach me: bglance68@gmail.com or brendan@cantonchamber.org <br>
+- 📫 How to reach me: bglance68@gmail.com  <br>
 
 - 💾 Hack The Box <a href="https://www.hackthebox.eu/profile/414640" target="-blank">here</a>
 
