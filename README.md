@@ -11,16 +11,16 @@
 </p>
  <p align="left">
   
-- 🔭 Personal website: <a href="https://dev-port-lac.vercel.app/" target="_blank">here</a> <br>
+- 🖥 Personal website: <a href="https://dev-port-lac.vercel.app/" target="_blank">here</a> <br>
 
-- 🌱 I’m currently learning Python, Java, JavaScript, C++ <br>
+- 📚 I’m currently learning Python, Java, JavaScript, C++ <br>
 
-- 🔗 <a href="https://www.linkedin.com/in/brendan-glancy/" target="-blank">LinkedIn</a> <br>
+- 🌎 <a href="https://www.linkedin.com/in/brendan-glancy/" target="-blank">LinkedIn</a> <br>
 
 - 📫 How to reach me: bglance68@gmail.com  <br>
 
-- 💾 Hack The Box <a href="https://www.hackthebox.eu/profile/414640" target="-blank">here</a>
+- 🦠 Hack The Box <a href="https://www.hackthebox.eu/profile/414640" target="-blank">here</a>
 
-- <a href="https://brendanglancy.github.io/Resume/" target="_blank">📲 Resume</a>
+- <a href="https://brendanglancy.github.io/Resume/" target="_blank"> 💻 Resume</a>
 
 </p>
