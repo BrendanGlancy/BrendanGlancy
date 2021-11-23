@@ -13,7 +13,7 @@
   
 - 🖥 Personal website: <a href="https://dev-port-lac.vercel.app/" target="_blank">here</a> <br>
 
-- 📚 I’m currently learning Python, JavaScript & TypeScript, C++, and Go <br>
+- 📚 I’m currently learning JavaScript, Python, & C++ <br>
 
 - 🌎 <a href="https://www.linkedin.com/in/brendan-glancy/" target="-blank">LinkedIn</a> <br>
 
