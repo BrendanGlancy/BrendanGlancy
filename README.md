@@ -23,12 +23,12 @@
 
 - <a href="https://brendanglancy.github.io/Resume/" target="_blank"> 💻 Resume</a>
 
-<details>
-<summary>:zap: GitHub Stats</summary>
+- <details>
+  <summary>:zap: GitHub Stats</summary>
 
-<p> <img align="left" alt="Muddhit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BrendanGlancy&show_icons=true&hide_border=true" /></p>
-<img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=BrendanGlancy&show_icons=true&locale=en&layout=compact&line_height=0" />
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanGlancy&layout=compact" align="center"/></p>
-</details>
+  <p> <img align="left" alt="Muddhit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BrendanGlancy&show_icons=true&hide_border=true" /></p>
+  <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=BrendanGlancy&show_icons=true&locale=en&layout=compact&line_height=0" />
+   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanGlancy&layout=compact" align="center"/></p>
+  </details>
 
 </p>
