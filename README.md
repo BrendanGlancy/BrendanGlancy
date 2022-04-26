@@ -6,10 +6,12 @@
 
 <br>
 <p align="left" margin-top="10px">
-  
-  <img src="http://www.hackthebox.eu/badge/image/414640" alt="Hack The Box" width="auto" align="right">
+  <a href=" https://app.hackthebox.com/profile/414640">
+  <img  src="http://www.hackthebox.eu/badge/image/414640" alt="Hack The Box" width="auto" align="right">
+  </a>
 </p>
  <p align="left">
+
   
 - 🖥 Personal website: <a href="https://dev-port-lac.vercel.app/" target="_blank">here</a> <br>
 
