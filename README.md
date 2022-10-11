@@ -13,7 +13,7 @@
   
 - 🖥 Personal website: <a href="https://dev-port-lac.vercel.app/" target="_blank">here</a> <br>
 
-- 📚 I’m currently learning JavaScript, Php, & Java <br>
+- 📚 I’m currently learning <a href="https://jjquery.io/">JJQuery</a> <br>
 
 - 🌎 <a href="https://www.linkedin.com/in/brendan-glancy/" target="-blank">LinkedIn</a> <br>
 
