@@ -26,9 +26,9 @@
 - <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <p> <img alt="Brendan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanGlancy&hide=css,html,jupyter%20notebook,plpgsql&theme=gruvbox" /></p>
+  <p> <img alt="Brendan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanGlancy&hide=css,html,jupyter%20notebook,plpgsql&theme=tokyonight" /></p>
   <br>
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brendanglancy&theme=gruvbox" align="center"/></p>
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brendanglancy&theme=tokyonight" align="center"/></p>
   </details>
 
 </p>
