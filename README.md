@@ -1,5 +1,7 @@
 <h1 align="center"> Hey, Welcome to my GitHub 👋</h1>
 <h3 align="center">CS @ <a href="https://www.uakron.edu/" target="_blank">UA</a></h3>
+
+
 <!--
 **BrendanGlancy/BrendanGlancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -24,11 +26,14 @@
 - <a href="https://brendanglancy.github.io/Resume/" target="_blank"> 💻 Resume</a>
 
 - <details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <p> <img alt="Brendan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanGlancy&hide=css,html,jupyter%20notebook,plpgsql&theme=tokyonight" /></p>
-  <br>
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brendanglancy&theme=tokyonight" align="center"/></p>
+  <summary>:zap: GitHub & LeetCode Stats</summary>
+
+  <p> <img height="250px" alt="Brendan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanGlancy&hide=css,html,jupyter%20notebook,plpgsql&theme=tokyonight" />
+   <img height="250px" src="https://github-readme-stats.vercel.app/api?username=brendanglancy&theme=tokyonight"/></p>
+
+
+   <p><img align="center" src="https://leetcard.jacoblin.cool/BrendanGlancy?theme=unicorn" align="center"/></p>
   </details>
 
 </p>
