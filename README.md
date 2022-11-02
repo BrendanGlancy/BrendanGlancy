@@ -26,8 +26,8 @@
 
 | Github Stats                                                                                                                                     | LeetCode Stats                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| ![Brendan's top languages](https://github-readme-stats.vercel.app/api?username=brendanglancy&theme=tokyonight&count_private=true&layout=compact) | ![Brendan's top languages](https://leetcard.jacoblin.cool/BrendanGlancy?theme=dark) |
+| ![Brendan's top languages](https://github-readme-stats.vercel.app/api?username=brendanglancy&theme=tokyonight&count_private=true&layout=compact) | ![Brendan's top languages](https://leetcard.jacoblin.cool/BrendanGlancy?theme=nord) |
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=brendanglancy.brendanglancy) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/syrashid) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syrashid)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=brendanglancy.brendanglancy) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/brendanglancy) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/brendanglancy)
 
 
