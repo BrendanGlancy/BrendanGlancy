@@ -25,7 +25,7 @@
  <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
 <div align="center">
-      <a href="https://www.linkedin.com/in/brendanglancy/">
+      <a href="https://www.linkedin.com/in/brendan-glancy/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
       <a href="mailto:bglance68@gmail.com">
