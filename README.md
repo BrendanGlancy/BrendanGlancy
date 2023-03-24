@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, Welcome to my GitHub 👋</h1>
-<h3 align="center">SWE @ <a href="https://www.ovsknife.com/" target="_blank">OVS</a></h3>
+<h3 align="center">SWE @ <a href="https://www.ovsknife.com/home" target="_blank">OVS</a></h3>
 
 
 <!--
@@ -21,7 +21,7 @@
 
 - 🦠 Hack The Box <a href="https://www.hackthebox.eu/profile/414640" target="-blank">here</a>
   
-- 📌 Company Website <a href="https://ovsknife.com/" target="_blank">here</a>
+- 📌 Company Website <a href="https://ovsknife.com/home" target="_blank">here</a>
 
 - <a href="https://brendanglancy.github.io/Resume/" target="_blank"> 💻 Resume</a>
   
