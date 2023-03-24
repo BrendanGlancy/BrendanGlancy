@@ -21,7 +21,7 @@
 
 - 🦠 Hack The Box <a href="https://www.hackthebox.eu/profile/414640" target="-blank">here</a>
   
-- 📌 Company Website <a href="https://ovsgrinding.com/home" target="_blank">here</a>
+- 📌 Company Website <a href="https://ovsknife.com/" target="_blank">here</a>
 
 - <a href="https://brendanglancy.github.io/Resume/" target="_blank"> 💻 Resume</a>
   
