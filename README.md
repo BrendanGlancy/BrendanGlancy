@@ -41,6 +41,8 @@
   <br></br>
 </div>
 
+![](https://leetcard.jacoblin.cool/brendanglancy?ext=activity&width=1000)
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/brendanglancy) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/brendanglancy)
 [![wakatime](https://wakatime.com/badge/user/d875201e-376f-4e46-9897-9915c6c9fce3.svg)](https://wakatime.com/@d875201e-376f-4e46-9897-9915c6c9fce3)
 
