@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, Welcome to my GitHub 👋</h1>
-<h3 align="center">SWE @ <a href="https://www.ovsknife.com/home" target="_blank">OVS</a></h3>
+<h3 align="center">Student @ <a href="https://www.uakron.edu/" target="_blank">UA</a></h3>
 
 
 <!--
