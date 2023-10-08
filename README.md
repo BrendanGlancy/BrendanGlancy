@@ -27,23 +27,24 @@
   
  <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
-
 <div align="center">
-      <a href="https://www.linkedin.com/in/brendan-glancy/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
-      <a href="mailto:bglance68@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-      </a>
-      <a href="https://www.instagram.com/brendanglance/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-      </a>
-  <br></br>
+  <a href="https://www.linkedin.com/in/brendan-glancy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:bglance68@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/brendanglance/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <br><br>
+  <img src="https://leetcard.jacoblin.cool/brendanglancy?ext=activity">
 </div>
 
-![](https://leetcard.jacoblin.cool/brendanglancy?ext=activity&width=1000)
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/brendanglancy) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/brendanglancy)
-[![wakatime](https://wakatime.com/badge/user/d875201e-376f-4e46-9897-9915c6c9fce3.svg)](https://wakatime.com/@d875201e-376f-4e46-9897-9915c6c9fce3)
+<div align="center">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github">
+  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103">
+  <img src="https://wakatime.com/badge/user/d875201e-376f-4e46-9897-9915c6c9fce3.svg">
+</div>
 
 
