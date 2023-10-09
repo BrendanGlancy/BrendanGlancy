@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github">
   <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103">
   <img src="https://wakatime.com/badge/user/d875201e-376f-4e46-9897-9915c6c9fce3.svg">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=brendanglancy">
 </div>
 
 
