@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <br><br>
-  <img src="https://leetcard.jacoblin.cool/brendanglancy?theme=light,unicorn">
+  <img src="https://leetcard.jacoblin.cool/brendanglancy?theme=nord">
   <br><br>
 </div>
 
