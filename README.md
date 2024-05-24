@@ -7,7 +7,7 @@
 
 <br>
 <p align="left" margin-top="10px">
-  <img  src="[http://www.hackthebox.eu/badge/image/414640](https://app.hackthebox.com/profile/414640)" alt="Hack The Box" width="auto" align="right">
+  <img  src="[http://app.hackthebox.eu/badge/image/414640](https://app.hackthebox.com/profile/414640)" alt="Hack The Box" width="auto" align="right">
 </p>
  <p align="left">
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: bglance68@gmail.com <br>
 
-- 🦠 Hack The Box <a href="https://www.hackthebox.eu/profile/414640" target="-blank">here</a>
+- 🦠 Hack The Box <a href="https://app.hackthebox.eu/profile/414640" target="-blank">here</a>
   
 - 📌 Company Website <a href="https://ovsknife.com/home" target="_blank">here</a>
 
