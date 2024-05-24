@@ -6,9 +6,7 @@
 **BrendanGlancy/BrendanGlancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <br>
-<p align="left" margin-top="10px">
-  <img  src="[http://app.hackthebox.eu/badge/image/414640](https://app.hackthebox.com/profile/414640)" alt="Hack The Box" width="auto" align="right">
-</p>
+
  <p align="left">
 
 - 🖥 Personal website: <a href="https://brendanglancy.me/" target="_blank">here</a> <br>
