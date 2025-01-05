@@ -9,7 +9,7 @@
 
  <p align="left">
 
-- 🖥 Personal website: <a href="https://brendanglancy.me/" target="_blank">here</a> <br>
+- 🖥 Personal website: <a href="https://brendanglancy.com/" target="_blank">here</a> <br>
 
 - 📚 I’m currently learning <a href="https://jjquery.io/">JJQuery</a> <br>
 
