@@ -21,7 +21,7 @@
   
 - 📌 Company Website <a href="https://ovsknife.com/home" target="_blank">here</a>
 
-- <a href="https://brendanglancy.github.io/Resume/" target="_blank"> 💻 Resume</a>
+- 💻 <a href="https://brendanglancy.github.io/Resume/" target="_blank"> Resume</a>
   
  <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
