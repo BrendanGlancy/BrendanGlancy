@@ -1,6 +1,4 @@
 <h1 align="center"> Hey, Welcome to my GitHub 👋</h1>
-<h3 align="center">Student @ <a href="https://www.uakron.edu/" target="_blank">UA</a></h3>
-
 
 <!--
 **BrendanGlancy/BrendanGlancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -23,8 +21,6 @@
 
 - 💻 <a href="https://brendanglancy.github.io/Resume/" target="_blank"> Resume</a>
   
- <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/brendan-glancy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -35,9 +31,6 @@
   <a href="https://www.instagram.com/brendanglance/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <br><br>
-  <img src="https://leetcard.jacoblin.cool/brendanglancy?theme=nord">
-  <br><br>
 </div>
 
 <div align="center">
