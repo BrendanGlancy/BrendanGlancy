@@ -16,27 +16,10 @@
 - 📫 How to reach me: bglance68@gmail.com <br>
 
 - 🦠 Hack The Box <a href="https://app.hackthebox.eu/profile/414640" target="-blank">here</a>
-  
-- 📌 Company Website <a href="https://ovsknife.com/home" target="_blank">here</a>
 
 - 💻 <a href="https://brendanglancy.github.io/Resume/" target="_blank"> Resume</a>
-  
-<div align="center">
-  <a href="https://www.linkedin.com/in/brendan-glancy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:bglance68@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/brendanglance/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github">
-  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103">
-  <img src="https://wakatime.com/badge/user/d875201e-376f-4e46-9897-9915c6c9fce3.svg">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=brendanglancy">
 </div>
 
